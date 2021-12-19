@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="25-write.tistory.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="1hee1be@gmail.com" width="22px" src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png"/>][gmail]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
@@ -54,6 +55,7 @@ Here are some ideas to get you started:
 <br />
 
 [website]: https://25-write.tistory.com
+[gmail]: 1hee1be@gmail.com
 [twitter]: https://twitter.com/heather_log
 [MAGNET]: https://github.com/DevCommunity-ko
 [readngpiece]: https://github.com/HanInJu/Wants-Server
