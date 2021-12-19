@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ###
 
 ### 안녕하세요, 한인주라고 합니다. 만나서 반가워요! 👋 
-## Hi, there! I'm HanInJu - aka [Heather][website]
-###
+### Hi, there! I'm HanInJu - aka [Heather][website]
+---
 
 ### 😆 저는 서버개발자이자 학생, 때로는 선생님이랍니다.
 
