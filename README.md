@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi, there! I'm InJu - aka [Heather][website] 
 ## 안녕하세요, 한인주라고 합니다. 만나서 반가워요! 👋
 
-### 😆 I'm a server developer, student and teacher. 
-   저는 서버개발자이자 학생, 때로는 선생님이랍니다.
+### 😆 저는 서버개발자이자 학생, 때로는 선생님이랍니다.
 
 - 🔭 팀을 이루어 작업하고, 서비스를 런칭할 때 가장 신나요.
 - 🌱 재밌는 모든 것을 배우고 있답니다!
