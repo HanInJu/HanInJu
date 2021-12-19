@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###
 
+### Hi, there! I'm InJu - aka [Heather][website] 
 ### 안녕하세요, 한인주라고 합니다. 만나서 반가워요! 👋
-Hi, there! I'm InJu - aka [Heather][website] 
 ---
 
 ### 😆 I'm a server developer, student and teacher. 저는 서버개발자이자 학생, 때로는 선생님이랍니다. 
