@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I'm excited when I work with team and our team launch our service
 - 🌱 I'm currently leaning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Launching MAGNET Service - [MAGNET]
+- 🥅 2022 Goals: Launching MAGNET Service - [MAGNET]
 - ⚡ Fun fact: I love singing 🎤
 
 ### Connect with me:
