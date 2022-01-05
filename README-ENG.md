@@ -13,15 +13,52 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi, there! I'm Haninju - aka [Heather][website]
 
-### 😆 I'm a Back-End Developer, Student and Teacher
+# Hi, I'm Heather. Glad to meet you! 👋  [ENG ver.][engver]
 
-- 🔭 I'm excited when I work with team and our team launch our service
-- 🌱 I'm currently leaning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Launching MAGNET Service - [MAGNET]
-- ⚡ Fun fact: I love singing 🎤
+> **Introduce Me.**
+> I am a BE Server developer, student, and sometimes also a teacher.
+
+> **I am this kind of person.**
+> Gathering people, working together, and playing together is the most fun thing in the world.
+
+- 🔭 Working as a team and launching a service is the most exciting thing.
+- 🌱 I'm learning some fun things!
+- 👯 I'm looking for developers and friends to work together as a team.
+- 🥅 The goal for 2022 is to launch the MAGNET service. - [MAGNET]
+- ⚡ Fun fact : I like to sing! 🎤
+-----
+> 💻 **Work In Progress** 
+> 1. WWC, MuNeeds
+> 2. The Magnet
+> 3. ...
+----
+> ✏️ **Learning and Applying** 
+> 1. algorithm, Personal Training - [APT]
+> 2. java
+> 3. spring
+> 4. JPA
+> 5. MySQL
+> 6. Jenkins - [site]
+----
+>📖 **Preparing**
+> 1. Creating my own WIKI
+> 2. API documentation automation through Spring Rest Docs
+
+----
+> 📚 **What I want to Learn More**
+> 1. MQ, Message Queue
+> 2. JUnit 
+> 3. Doker
+> 4. Kubernetes
+> 5. Kotlin
+
+---
+> 📑 **My CV and Protfolio**
+- CV - Reorganizing...
+- Portfolio - Rebuilding...
+
+<br/>
 
 ### Connect with me:
 
@@ -34,13 +71,13 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 [<img align="left" alt="intellij" width="26px" src="https://img.icons8.com/color/48/000000/intellij-idea.png" />][website]
-[<img align="left" alt="java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>][magnet]
-[<img align="left" alt="spring boot" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>][magnet]
+[<img align="left" alt="java" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>][MAGNET]
+[<img align="left" alt="spring boot" width="26px" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>][MAGNET]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][readngpiece]
 [<img align="left" alt="Kotlin" width="26px"  src="https://img.icons8.com/color/48/000000/kotlin.png"/>][site]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][magnet]
-[<img align="left" alt="aws" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>][magnet]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][MAGNET]
+[<img align="left" alt="aws" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>][MAGNET]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
@@ -51,8 +88,11 @@ Here are some ideas to get you started:
 [website]: https://25-write.tistory.com
 [gmail]: 1hee1be@gmail.com
 [twitter]: https://twitter.com/heather_log
-[magnet]: https://github.com/DevCommunity-ko
+[MAGNET]: https://github.com/DevCommunity-ko
 [readngpiece]: https://github.com/HanInJu/Wants-Server
 [site]: https://github.com/HanInJu/site
+[engver]: https://github.com/HanInJu/HanInJu/blob/main/README-ENG.md
+[APT]: https://github.com/HanInJu/algorithmPT
+
 
 ---
