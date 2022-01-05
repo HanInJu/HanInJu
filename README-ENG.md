@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm Heather. Glad to meet you! 👋  [ENG ver.][engver]
+# Hi, I'm Heather. Glad to meet you! 👋  [KOR ver.][korver]
 
 > **Introduce Me.**
 > I am a BE Server developer, student, and sometimes also a teacher.
@@ -92,6 +92,7 @@ Here are some ideas to get you started:
 [readngpiece]: https://github.com/HanInJu/Wants-Server
 [site]: https://github.com/HanInJu/site
 [engver]: https://github.com/HanInJu/HanInJu/blob/main/README-ENG.md
+[korver]: https://github.com/HanInJu
 [APT]: https://github.com/HanInJu/algorithmPT
 
 
