@@ -32,9 +32,10 @@ Here are some ideas to get you started:
 - ⚡ 재미있는 사실 하나 : 노래하는 걸 좋아해요! 🎤
 -----
 > 💻 **진행중인 작업들** 
-> 1. WWC, MuNeeds
+> 1. Petcomes
 > 2. The Magnet
-> 3. ...
+> 3. Capston Design Project
+> 4. ...
 ----
 > ✏️ **배우고 적용하는 모든 것** 
 > 1. algorithm, Personal Training - [APT]
@@ -42,7 +43,8 @@ Here are some ideas to get you started:
 > 3. spring
 > 4. JPA
 > 5. MySQL
-> 6. Jenkins - [site]
+> 6. Jenkins
+> 7. Docker
 ----
 >📖 **준비하고 있는 것**
 > 1. 나만의 위키 만들기
