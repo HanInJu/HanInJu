@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 > ✏️ **배우고 적용하는 모든 것** 
 > 1. algorithm, Personal Training - [APT]
 > 2. java
-> 3. spring
+> 3. spring - [Spring]
 > 4. JPA
 > 5. MySQL
 > 6. Jenkins
@@ -92,6 +92,7 @@ Here are some ideas to get you started:
 [website]: https://25-write.tistory.com
 [gmail]: 1hee1be@gmail.com
 [MAGNET]: https://github.com/DevCommunity-ko
+[Spring]: https://github.com/HanInJu/bibimbap-cloud
 [readngpiece]: https://github.com/HanInJu/Wants-Server
 [site]: https://github.com/HanInJu/site
 [engver]: https://github.com/HanInJu/HanInJu/blob/main/README-ENG.md
