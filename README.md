@@ -17,13 +17,10 @@ Here are some ideas to get you started:
 
 
 
-# Hi, I'm Heather. Glad to meet you! 👋  [ENG ver.][engver]
+## Hi, I'm Heather. Glad to meet you! 👋  [ENG ver.][engver]
 
-> **소개할게요.**
-> <br/>저는 서버개발자이자 학생, 때로는 선생님이 되기도 한답니다.
-
-> **저는 이런 사람이에요.**
-> <br/>사람들을 모으고, 함께 작업하고, 같이 노는 건 세상에서 제일 재밌는 일이죠.
+### 저는 이런 사람이에요.
+사람들을 모으고, 함께 작업하고, 같이 노는 게 세상에서 제일 재밌는 저는 최강의 팀 플레이어랍니다.
 
 - 🔭 팀을 이루어 작업하고, 서비스를 런칭할 때 가장 신나요.
 - 🌱 재미있는 것들을 배우고 있답니다!
@@ -32,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ 재미있는 사실 하나 : 노래하는 걸 좋아해요! 🎤
 <br/>
 
-📚 **더 배우고 싶은 것**
+### 📚 더 배우고 싶은 것
 1. MQ, Message Queue
 2. JUnit 
 3. Docker
