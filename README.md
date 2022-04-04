@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <br />
 
 [website]: https://25-write.tistory.com
-[gmail]: 1hee1be@gmail.com
+[gmail]: haninju95@gmail.com
 [MAGNET]: https://github.com/DevCommunity-ko
 [Spring]: https://github.com/HanInJu/bibimbap-cloud
 [readngpiece]: https://github.com/HanInJu/Wants-Server
