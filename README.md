@@ -31,26 +31,7 @@ Here are some ideas to get you started:
 - 🥅 2022년 목표는 MAGNET 서비스 출시예요. - [MAGNET]
 - ⚡ 재미있는 사실 하나 : 노래하는 걸 좋아해요! 🎤
 -----
-> 💻 **진행중인 작업들** 
-> 1. Petcomes
-> 2. The Magnet
-> 3. Capston Design Project
-> 4. ...
-----
-> ✏️ **배우고 적용하는 모든 것** 
-> 1. algorithm, Personal Training - [APT]
-> 2. java
-> 3. spring - [Spring]
-> 4. JPA
-> 5. MySQL
-> 6. Jenkins
-> 7. Docker
-----
->📖 **준비하고 있는 것**
-> 1. 나만의 위키 만들기
-> 2. Spring Rest Docs 적용, API 문서 자동화
 
-----
 > 📚 **더 배우고 싶은 것**
 > 1. MQ, Message Queue
 > 2. JUnit 
