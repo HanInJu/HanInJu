@@ -14,34 +14,30 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm Heather. Glad to meet you! 👋  [KOR ver.][korver]
+## Hi, I'm Heather. Glad to meet you! 👋  [KOR ver.][korver]
 
-> **Introduce Me.**
-> I am a BE Server developer, student, and sometimes also a teacher.
+### Introduce Me.
+I am a BE Server developer, student, and sometimes also a teacher.
 
-> **I am this kind of person.**
-> Gathering people, working together, and playing together is the most fun thing in the world.
+### I am this kind of person.
+Gathering people, working together, and playing together is the most fun thing in the world.
 
 - 🔭 Working as a team and launching a service is the most exciting thing.
 - 🌱 I'm learning some fun things!
 - 👯 I'm looking for developers and friends to work together as a team.
 - 🥅 The goal for 2022 is to launch the MAGNET service. - [MAGNET]
 - ⚡ Fun fact : I like to sing! 🎤
------
 
-> 📚 **What I want to Learn More**
-> 1. MQ, Message Queue
-> 2. JUnit 
-> 3. Docker
-> 4. Kubernetes
-> 5. Kotlin
+### 📚 What I want to Learn More
+1. MQ, Message Queue
+2. JUnit 
+3. Docker
+4. Kubernetes
+5. Kotlin
 
----
-> 📑 **My CV and Protfolio**
+### 📑 My CV and Protfolio
 - CV - Reorganizing...
 - Portfolio - Rebuilding...
-
-<br/>
 
 ### Connect with me:
 
