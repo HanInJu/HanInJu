@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi, I'm Heather. Glad to meet you! 👋  [KOR ver.][korver]
+## Hi, I'm Heather. Glad to meet you! 😆  
+[한국어로 작성된 소개를 보려면 이 링크를 클릭하세요.][korver]
 
 ### Introduce Me.
 I am a BE Server developer, student, and sometimes also a teacher.
