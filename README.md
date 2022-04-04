@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 3. Docker
 4. Kubernetes
 5. Kotlin
-<br/>
 
 ### Connect with me:
 
