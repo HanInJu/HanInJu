@@ -35,14 +35,9 @@ Here are some ideas to get you started:
 > 📚 **더 배우고 싶은 것**
 > 1. MQ, Message Queue
 > 2. JUnit 
-> 3. Doker
+> 3. Docker
 > 4. Kubernetes
 > 5. Kotlin
-
----
-> 📑 **이력서 및 포트폴리오**
-- CV - 새로 정리하는 중
-- Portfolio - 준비중
 
 <br/>
 
