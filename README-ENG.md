@@ -28,28 +28,11 @@ Here are some ideas to get you started:
 - 🥅 The goal for 2022 is to launch the MAGNET service. - [MAGNET]
 - ⚡ Fun fact : I like to sing! 🎤
 -----
-> 💻 **Work In Progress** 
-> 1. WWC, MuNeeds
-> 2. The Magnet
-> 3. ...
-----
-> ✏️ **Learning and Applying** 
-> 1. algorithm, Personal Training - [APT]
-> 2. java
-> 3. spring
-> 4. JPA
-> 5. MySQL
-> 6. Jenkins - [site]
-----
->📖 **Preparing**
-> 1. Creating my own WIKI
-> 2. API documentation automation through Spring Rest Docs
 
-----
 > 📚 **What I want to Learn More**
 > 1. MQ, Message Queue
 > 2. JUnit 
-> 3. Doker
+> 3. Docker
 > 4. Kubernetes
 > 5. Kotlin
 
@@ -85,8 +68,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[website]: https://25-write.tistory.com
-[gmail]: 1hee1be@gmail.com
+[website]: https://heather-dev.tistory.com
+[gmail]: haninju95@gmail.com
 [twitter]: https://twitter.com/heather_log
 [MAGNET]: https://github.com/DevCommunity-ko
 [readngpiece]: https://github.com/HanInJu/Wants-Server
