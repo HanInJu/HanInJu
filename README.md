@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 - ⚡ 재미있는 사실 하나 : 노래하는 걸 좋아해요! 🎤
 <br/>
 
-> 📚 **더 배우고 싶은 것**
-> 1. MQ, Message Queue
-> 2. JUnit 
-> 3. Docker
-> 4. Kubernetes
-> 5. Kotlin
+📚 **더 배우고 싶은 것**
+1. MQ, Message Queue
+2. JUnit 
+3. Docker
+4. Kubernetes
+5. Kotlin
 <br/>
 
 ### Connect with me:
