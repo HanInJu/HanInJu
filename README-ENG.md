@@ -75,5 +75,3 @@ Gathering people, working together, and playing together is the most fun thing i
 [korver]: https://github.com/HanInJu
 [APT]: https://github.com/HanInJu/algorithmPT
 
-
----
