@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 
 
-## Hi, I'm Heather. Glad to meet you! 😆  [ENG ver.][engver]
+## Hi, I'm Heather. Glad to meet you! 😆  
+[Click on me to see the ENG version.][engver]
 
 ### 저는 이런 사람이에요.
 사람들을 모으고, 함께 작업하고, 같이 노는 게 세상에서 제일 재밌는 저는 최강의 팀 플레이어랍니다.
@@ -40,7 +41,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="25-write.tistory.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="1hee1be@gmail.com" width="22px" src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png"/>][gmail]
 
-<br />
+<br/>
 
 ### Languages and Tools:
 
@@ -67,6 +68,4 @@ Here are some ideas to get you started:
 [site]: https://github.com/HanInJu/site
 [engver]: https://github.com/HanInJu/HanInJu/blob/main/README-ENG.md
 [APT]: https://github.com/HanInJu/algorithmPT
-
----
 
