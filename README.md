@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ## Hi, I'm Heather. Glad to meet you! 😆  
-                                                                          [Click on me to see the ENG version.][engver]
+[Click on me to see the ENG version.][engver]
 
 ### 저는 이런 사람이에요.
 사람들을 모으고, 함께 작업하고, 같이 노는 게 세상에서 제일 재밌는 저는 최강의 팀 플레이어랍니다.
