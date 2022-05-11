@@ -26,7 +26,7 @@ Gathering people, working together, and playing together is the most fun thing i
 - 🔭 Working as a team and launching a service is the most exciting thing.
 - 🌱 I'm learning some fun things!
 - 👯 I'm looking for developers and friends to work together as a team.
-- 🥅 The goal for 2022 is to launch the MAGNET service. - [MAGNET]
+- 🥅 The goal for 2022 is to launch the '______' service.
 - ⚡ Fun fact : I like to sing! 🎤
 
 ### 📚 What I want to Learn More
